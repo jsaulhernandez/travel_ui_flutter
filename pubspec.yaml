@@ -38,6 +38,7 @@ dependencies:
   flutter_swiper_view: ^1.1.8
   dotted_line: ^3.2.3
   readmore: ^3.0.0
+  flutter_launcher_icons: ^0.14.1
 
 dev_dependencies:
   flutter_test:
@@ -64,7 +65,7 @@ flutter:
   assets:
     - assets/images/facilities/
     - assets/images/members/
-
+    - assets/icon/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
