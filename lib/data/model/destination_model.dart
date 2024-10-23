@@ -14,11 +14,11 @@ class Member {
 }
 
 List<String> members = [
-  'assets/members/girl1.jpg',
-  'assets/members/man1.jpg',
-  'assets/members/man2.jpg',
-  'assets/members/girl2.jpg',
-  'assets/members/girl3.jpg',
+  'assets/images/members/girl1.jpg',
+  'assets/images/members/man1.jpg',
+  'assets/images/members/man2.jpg',
+  'assets/images/members/girl2.jpg',
+  'assets/images/members/girl3.jpg',
 ];
 
 class Destination {
@@ -49,7 +49,7 @@ List<Destination> destinations = [
     category: 'Nearby',
     members: [members[0], members[2], members[1]],
     image:
-        "https://www.dreamtinyliving.com/wp-content/uploads/2023/07/Beautiful-Small-House-Design-Idea-7mx6m-1.jpgw",
+        "https://www.dreamtinyliving.com/wp-content/uploads/2023/07/Beautiful-Small-House-Design-Idea-7mx6m-1.jpg",
     location: "Luton,London",
     description:
         "Clerck Well House doesn't appear to be a widely recognized term or name. Could you provide more context or details about what you mean by Clerck Well House? Are you referring to a specific place, historical site, or something else? This will help me provide a more accurate response.",
