@@ -66,6 +66,9 @@ class _TravelHomeScreenState extends State<TravelHomeScreen> {
                   ),
                   Icon(
                     icons[index],
+                    color: selectedIndex == index
+                        ? Colors.lightBlue
+                        : Colors.black26,
                   ),
                   const SizedBox(height: 5),
                   selectedIndex == index
